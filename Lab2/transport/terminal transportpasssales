@@ -1,0 +1,9 @@
+TransportPassSales transpor2 = new TransportPassSales(12, 24);
+transpor2.getnumberOfTransportPassesSold()
+    returned int 12
+transpor2.gettotalValue()
+    returned double 24.0
+transpor2.sellTransportPasses(5, 10);
+transpor2.showSales();
+Quantidade de passes vendidos: 22
+Valor total arrecadado:29,00€

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Authorisation
+comment1.params=authorisationDate\ authorisingPerson
+comment1.target=Authorisation(MyDate,\ Person)
+comment2.params=
+comment2.target=MyDate\ getauthorisationDate()
+comment3.params=
+comment3.target=Person\ getauthorisingPerson()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

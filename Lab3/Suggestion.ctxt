@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Suggestion
+comment1.params=weather
+comment1.target=void\ suggestShoes(Weather)
+comment2.params=weather
+comment2.target=void\ suggestClothes(Weather)
+comment3.params=weather
+comment3.target=void\ suggestAccessories(Weather)
+comment4.params=weather
+comment4.target=void\ suggestClothing(Weather)
+numComments=5

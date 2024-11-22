@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Club
+comment1.params=
+comment1.target=Club()
+comment2.params=
+comment2.target=int\ numberOfMembers()
+comment3.params=member
+comment3.target=void\ join(Membership)
+comment4.params=month\ year
+comment4.target=void\ numberJoinedInMonth(int,\ int)
+comment5.params=month\ year
+comment5.target=void\ listJoinedInMonth(int,\ int)
+comment6.params=nameToSearch
+comment6.target=int\ search(java.lang.String)
+comment7.params=nameToSearch
+comment7.target=void\ remove(java.lang.String)
+numComments=8

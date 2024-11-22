@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=aStreet\ adoorNumber\ aZipCode
+comment1.target=Address(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Address\r\n
+comment2.params=
+comment2.target=java.lang.String\ show()
+numComments=3

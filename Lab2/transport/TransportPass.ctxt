@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TransportPass
+comment1.params=
+comment1.target=TransportPass()
+comment2.params=newPassType\ newPrice
+comment2.target=TransportPass(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getpassType()
+comment4.params=
+comment4.target=double\ getprice()
+comment5.params=pass2
+comment5.target=void\ setpassType(java.lang.String)
+comment6.params=pre\u00E7o
+comment6.target=void\ setPrice(double)
+numComments=7

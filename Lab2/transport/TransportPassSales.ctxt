@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransportPassSales
+comment1.params=newNumberOfTransportPassesSold\ newTotalvalue
+comment1.target=TransportPassSales(int,\ double)
+comment2.params=unityPrice\ numOfpassesSold
+comment2.target=void\ sellTransportPasses(double,\ int)
+comment3.params=
+comment3.target=int\ getnumberOfTransportPassesSold()
+comment4.params=
+comment4.target=double\ gettotalValue()
+comment5.params=
+comment5.target=void\ showSales()
+numComments=6
